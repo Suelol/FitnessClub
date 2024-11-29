@@ -1,0 +1,15 @@
+C:\Users\Ramil\Desktop\FitnesClub\FitnessClub\bin\Debug\FitnessClub.exe.config
+C:\Users\Ramil\Desktop\FitnesClub\FitnessClub\bin\Debug\FitnessClub.exe
+C:\Users\Ramil\Desktop\FitnesClub\FitnessClub\bin\Debug\FitnessClub.pdb
+C:\Users\Ramil\Desktop\FitnesClub\FitnessClub\obj\Debug\FitnessClub.csproj.AssemblyReference.cache
+C:\Users\Ramil\Desktop\FitnesClub\FitnessClub\obj\Debug\MainWindow.g.cs
+C:\Users\Ramil\Desktop\FitnesClub\FitnessClub\obj\Debug\App.g.cs
+C:\Users\Ramil\Desktop\FitnesClub\FitnessClub\obj\Debug\FitnessClub_MarkupCompile.cache
+C:\Users\Ramil\Desktop\FitnesClub\FitnessClub\obj\Debug\FitnessClub_MarkupCompile.lref
+C:\Users\Ramil\Desktop\FitnesClub\FitnessClub\obj\Debug\MainWindow.baml
+C:\Users\Ramil\Desktop\FitnesClub\FitnessClub\obj\Debug\FitnessClub.g.resources
+C:\Users\Ramil\Desktop\FitnesClub\FitnessClub\obj\Debug\FitnessClub.Properties.Resources.resources
+C:\Users\Ramil\Desktop\FitnesClub\FitnessClub\obj\Debug\FitnessClub.csproj.GenerateResource.cache
+C:\Users\Ramil\Desktop\FitnesClub\FitnessClub\obj\Debug\FitnessClub.csproj.CoreCompileInputs.cache
+C:\Users\Ramil\Desktop\FitnesClub\FitnessClub\obj\Debug\FitnessClub.exe
+C:\Users\Ramil\Desktop\FitnesClub\FitnessClub\obj\Debug\FitnessClub.pdb
